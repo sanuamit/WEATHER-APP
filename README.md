@@ -11,9 +11,9 @@ Interactive Map: Explore weather patterns on an interactive map. 🗺️
 Search Functionality: Easily find weather information for any city or region. 🔍🌆
 Responsive Design: Enjoy a seamless experience on any device. 📱💻
 How to Use
-Visit the App: Click here =>  to access the Weather App. 🌐🔗
+Visit the App: Click here => https://sanuamit.github.io/WEATHER-APP/ to access the Weather App. 🌐🔗
 Search for a Location: Enter the name of your city or region in the search bar. 🏙️🔍
 Explore Weather Data: View real-time weather conditions, forecasts, and more. 🌡️🌤️🌬️
 Stay ahead of the weather with the Weather App! 🌤️🌈⛈️
 
-Click here =>  to visit the Weather App and start exploring the weather in style! 🚀🌎🌞
+Click here => https://sanuamit.github.io/WEATHER-APP/ to visit the Weather App and start exploring the weather in style! 🚀🌎🌞
